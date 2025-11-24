@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "full_name": "John Doe",
+      "contact_no": "+420 123 456 789",
+      "office_hours": "9:00 AM - 5:00 PM"
+    },
+    {
+      "id": 2,
+      "full_name": "Jane Smith",
+      "contact_no": "+420 987 654 321",
+      "office_hours": "10:00 AM - 6:00 PM"
+    }
+  ]
+}

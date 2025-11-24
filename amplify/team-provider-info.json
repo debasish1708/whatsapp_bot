@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-citiowhatsappcitygui-dev-10efe-authRole",
+      "UnauthRoleArn": "arn:aws:iam::793353394119:role/amplify-citiowhatsappcitygui-dev-10efe-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::793353394119:role/amplify-citiowhatsappcitygui-dev-10efe-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-citiowhatsappcitygui-dev-10efe-deployment",
+      "UnauthRoleName": "amplify-citiowhatsappcitygui-dev-10efe-unauthRole",
+      "StackName": "amplify-citiowhatsappcitygui-dev-10efe",
+      "StackId": "arn:aws:cloudformation:eu-central-1:793353394119:stack/amplify-citiowhatsappcitygui-dev-10efe/5591a7f0-4b3e-11f0-94e5-0682f40692a5",
+      "AmplifyAppId": "d3lzr9wf79nai7"
+    },
+    "categories": {
+      "auth": {
+        "citiowhatsappcitygui2a3c29c4": {}
+      },
+      "storage": {
+        "s3184b78c8": {}
+      }
+    }
+  }
+}

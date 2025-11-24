@@ -1,0 +1,231 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Home",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-home"
+    },
+    {
+      "url": "/page-2",
+      "icon": "menu-icon tf-icons ti ti-file",
+      "name": "Order History",
+      "slug": "pages-page-2"
+    },
+    {
+      "url": "/pages/misc-error",
+      "name": "Error",
+      "icon": "menu-icon tf-icons ti ti-alert-triangle",
+      "slug": "pages-misc-error",
+      "target": "_blank"
+    },
+    {
+      "url": "/auth/login-basic",
+      "name": "Login",
+      "icon": "menu-icon tf-icons ti ti-login",
+      "slug": "auth-login-basic",
+      "target": "_blank"
+    },
+    {
+      "url": "/auth/register-basic",
+      "name": "Register",
+      "icon": "menu-icon tf-icons ti ti-user",
+      "slug": "auth-register-basic",
+      "target": "_blank"
+    }
+  ],
+  "school": [
+    {
+      "url": "/school/dashboard",
+      "name": "Home",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "school.dashboard"
+    },
+    {
+      "url": "/school/members",
+      "name": "Members",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "slug": "school.members"
+    },
+    {
+      "url": "/school/announcement",
+      "icon": "menu-icon tf-icons ti ti-speakerphone",
+      "name": "Announcements",
+      "slug": "school.announcement.index"
+    },
+    {
+      "url": "/school/event-calender",
+      "icon": "menu-icon tf-icons ti ti-calendar-event",
+      "name": "Event Calendar",
+      "slug": "school.event-calender.index"
+    },
+    {
+      "url": "/school/form-application",
+      "icon": "menu-icon tf-icons ti ti-file-description",
+      "name": "Form Applications",
+      "slug": "school.admission.index"
+    },
+    {
+      "url": "/school/club-activity",
+      "icon": "menu-icon tf-icons ti ti-star",
+      "name": "Clubs & Activities",
+      "slug": "school.club-activities.index"
+    },
+    {
+      "url": "/school/psychological-support",
+      "icon": "menu-icon tf-icons ti ti-brain",
+      "name": "Psychological Support",
+      "slug": "school.psychological-support"
+    },
+    {
+      "url": "/school/sos-alerts",
+      "icon": "menu-icon tf-icons ti ti-alert-circle",
+      "name": "SOS Alerts",
+      "slug": "school.sos-alerts.index"
+    },
+    {
+      "url": "/school/job-offer",
+      "icon": "menu-icon tf-icons ti ti-briefcase",
+      "name": "Job Offer",
+      "slug": "school.job-offer"
+    },
+    {
+      "url": "/school/students",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "name": "Manage Students",
+      "slug": "school.students"
+    },
+    {
+      "url": "/chat-history",
+      "icon": "menu-icon tf-icons ti ti-message-circle",
+      "name": "Chat Logs",
+      "slug": "chat-history"
+    },
+    {
+      "url": "/billing",
+      "icon": "menu-icon tf-icons ti ti-credit-card",
+      "name": "Billing / Subscription",
+      "slug": "subscribe.form"
+    },
+    {
+     "url": "",
+     "icon": "menu-icon tf-icons ti ti-device-mobile",
+     "name": "Mobile Assistant",
+     "slug": "mobile-assistant",
+     "id": "mobileAssistantToggle",
+     "sticky": true
+    }
+  ],
+  "admin": [
+    {
+      "url": "/admin/dashboard",
+      "name": "Home",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "admin.dashboard"
+    },
+    {
+      "url": "/admin/restaurants",
+      "name": "Restaurants",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "restaurants"
+    },
+    {
+      "url": "/admin/schools",
+      "name": "Schools",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "schools"
+    },
+    {
+      "url": "/admin/users",
+      "name": "Users",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "slug": "admin.users"
+    },
+    {
+      "url": "/accounts/delete-requests",
+      "name": "Deletion requests",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "slug": "accounts.delete-request"
+    },
+    {
+      "url": "/chat-history",
+      "icon": "menu-icon tf-icons ti ti-message-circle",
+      "name": "Chat Logs",
+      "slug": "chat-history"
+    }
+  ],
+  "restaurant": [
+    {
+      "url": "/restaurants/dashboard",
+      "name": "Home",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "restaurant.dashboard"
+    },
+    {
+      "url": "/restaurants/members",
+      "name": "Members",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "slug": "members"
+    },
+    {
+      "url": "/restaurants/menu-items",
+      "name": "Menu Items",
+      "icon": "menu-icon tf-icons ti ti-tools-kitchen-2",
+      "slug": "menu-items"
+    },
+    {
+      "url": "/restaurants/tables",
+      "name": "Tables",
+      "icon": "menu-icon tf-icons ti ti-chair-director",
+      "slug": "tables"
+    },
+    {
+      "url": "/restaurants/tables/reservation",
+      "name": "Table Reservations",
+      "icon": "menu-icon tf-icons ti ti-chair-director",
+      "slug": "reservation"
+    },
+    {
+      "url": "/restaurants/announcements",
+      "name": "Announcements",
+      "icon": "menu-icon tf-icons ti ti-speakerphone",
+      "slug": "announcements"
+    },
+    {
+      "url": "/restaurants/job-offers",
+      "name": "Job offers",
+      "icon": "menu-icon tf-icons ti ti-briefcase",
+      "slug": "job-offers"
+    },
+    {
+      "url": "/restaurants/customers",
+      "name": "Manage Customers",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "slug": "restaurant.customers"
+    },
+    {
+      "url": "/chat-history",
+      "icon": "menu-icon tf-icons ti ti-message-circle",
+      "name": "Chat Logs",
+      "slug": "chat-history"
+    },
+    {
+      "url": "/restaurants/offers",
+      "name": "Promo & Offers",
+      "icon": "menu-icon tf-icons ti ti-ticket",
+      "slug": "restaurant.offers"
+    },
+    {
+      "url": "/restaurants/orders",
+      "name": "Orders",
+      "icon": "menu-icon tf-icons ti ti-shopping-bag",
+      "slug": "restaurant.orders"
+    },
+    {
+      "url": "/billing",
+      "icon": "menu-icon tf-icons ti ti-credit-card",
+      "name": "Billing / Subscription",
+      "slug": "subscribe.form"
+    }
+  ]
+}
